@@ -44,9 +44,6 @@ Hi, I'm rescuerz. I'm currently an undergraduate student at Turing Class, Zhejia
 <p align="center"> 
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rescuerz&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rescuerz&theme=tokyonight" />
-</p>
 
 <!--START_SECTION:waka-->
 
