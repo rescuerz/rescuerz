@@ -60,3 +60,10 @@ Hi, I'm rescuerz. I'm currently an undergraduate student at Turing Class, Zhejia
 </p>
 
 [![rescuerz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rescuerz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="/profile-night-rainbow.svg" />
+</picture>
