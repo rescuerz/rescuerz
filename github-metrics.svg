@@ -1262,7 +1262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rasbt/LLMs-from-scratch</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implement a ChatGPT-like LLM in PyTorch from scratch, step by step</div>
@@ -1315,7 +1315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>posquit0/Awesome-CV</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1371,7 +1371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Anxcye/vuepress-cv</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于vuepress的静态个人简历</div>
@@ -1424,7 +1424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Xecades/zju-ical-py</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于 zju-ical 项目的 Python 重构版本，使用爬虫获取课程/考试信息，使用 iCal 格式在 Windows/macOS/Linux/Android/Harmony OS/iOS/iPadOS/watchOS/Wear OS 上方便地访问课程表/考试安排</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Feb 2025, 16:17:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2025, 17:14:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
