@@ -1241,7 +1241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-research/arxiv-latex-cleaner</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv</div>
@@ -1294,7 +1294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thu-nics/ViDiT-Q</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[ICLR'25] ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation</div>
@@ -1341,7 +1341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mit-han-lab/omniserve</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[MLSys'25] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; [MLSys'25] LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention</div>
@@ -1394,7 +1394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Efficient-ML/Awesome-Model-Quantization</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo.</div>
@@ -1594,7 +1594,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Mar 2025, 12:16:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2025, 13:13:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
