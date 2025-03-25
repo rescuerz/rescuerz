@@ -1304,7 +1304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-research/arxiv-latex-cleaner</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv</div>
@@ -1357,7 +1357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thu-nics/ViDiT-Q</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[ICLR'25] ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation</div>
@@ -1404,7 +1404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mit-han-lab/omniserve</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[MLSys'25] QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; [MLSys'25] LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention</div>
@@ -1616,7 +1616,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2025, 13:15:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 14:19:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
