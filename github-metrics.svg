@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1062" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1079" class="">
     <defs>
         <style/>
     </defs>
@@ -1360,7 +1360,7 @@
                                         <span>starred Apr 21 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">[Embodied-AI-Survey-2024] Paper list and projects for Embodied AI</div>
+                                <div class="field description">[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI</div>
                                 <div class="field infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1604,7 +1604,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 May 2025, 13:14:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2025, 14:21:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
