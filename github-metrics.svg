@@ -1351,7 +1351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tbphp/gpt-load</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.</div>
@@ -1404,7 +1404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hiyouga/EasyR1</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL</div>
@@ -1618,7 +1618,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Aug 2025, 18:15:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Aug 2025, 19:12:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
