@@ -1252,7 +1252,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVlabs/Fast-dLLM</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official implementation of "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding"</div>
@@ -1305,7 +1305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bansky-cl/diffusion-nlp-paper-arxiv</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Auto get diffusion nlp papers in Axriv. More papers Information can be found in another repository "Diffusion-LM-Papers".</div>
@@ -1607,7 +1607,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Oct 2025, 14:23:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Oct 2025, 15:15:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
