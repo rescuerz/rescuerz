@@ -1252,7 +1252,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Gen-Verse/dLLM-RL</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TraceRL &amp; TraDo-8B: Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models</div>
@@ -1305,7 +1305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JetAstra/SDAR</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SDAR (Synergy of Diffusion and AutoRegression), a large diffusion language model（1.7B, 4B, 8B, 30B）</div>
@@ -1624,7 +1624,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2025, 04:17:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2025, 05:14:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
