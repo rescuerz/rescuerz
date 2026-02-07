@@ -31,6 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          output_action: none
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_stargazers: yes
