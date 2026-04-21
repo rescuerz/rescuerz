@@ -1,32 +1,71 @@
 <!-- @format -->
 
-# Zhou Nan (rescuerz)
+<h1 align="center">Zhou Nan (rescuerz)</h1>
 
-Undergraduate in Computer Science and Technology (Turing Class) at Zhejiang University, incoming graduate student at Zhejiang University.
+<p align="center">
+  Undergraduate in Computer Science and Technology (Turing Class) at Zhejiang University
+  <br>
+  Incoming graduate student at Zhejiang University
+</p>
 
-Advised by Prof. Yongliang Shen at Zhejiang University. Currently a Research Intern at the Interactive Intelligence Lab of Ant Group.
+<p align="center">
+  Advised by Prof. Yongliang Shen at Zhejiang University
+  <br>
+  Research Intern at the Interactive Intelligence Lab of Ant Group
+</p>
 
 ## Research Snapshot
 
-- **Current**: Zhejiang University undergraduate in Computer Science and Technology (Turing Class); incoming graduate student at Zhejiang University; Research Intern at the Interactive Intelligence Lab of Ant Group.
-- **Research**: diffusion language model, video generation model, world model.
-- **Contact**: lemonzjdx@gmail.com
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <strong>Current</strong>
+      <br>
+      <br>
+      Zhejiang University
+      <br>
+      Computer Science and Technology (Turing Class)
+      <br>
+      Incoming graduate student
+      <br>
+      Research Intern at Ant Group IIL
+    </td>
+    <td width="32%" valign="top">
+      <strong>Research</strong>
+      <br>
+      <br>
+      diffusion language model
+      <br>
+      video generation model
+      <br>
+      world model
+    </td>
+    <td width="28%" valign="top">
+      <strong>Contact</strong>
+      <br>
+      <br>
+      <a href="mailto:lemonzjdx@gmail.com">lemonzjdx@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
 ## Selected Publications / Preprints
 
 Coming soon.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rescuerz/rescuerz/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rescuerz/rescuerz/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/rescuerz/rescuerz/output/github-contribution-grid-snake.svg"
-  >
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rescuerz/rescuerz/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rescuerz/rescuerz/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/rescuerz/rescuerz/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
+</p>
